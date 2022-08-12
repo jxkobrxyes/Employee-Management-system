@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(55, 55, 55);
+    display: flex;
+}
+
+.navbar {
+    margin: 10px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,57 @@
+
+h2 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.table {
+    width: 95%;
+    margin: 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+thead {
+    position: sticky;
+    z-index: 100;
+    background: rgb(245, 245, 245);
+}
+
+th {
+    padding: 8px;
+    color: rgb(33, 33, 33);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid rgb(237, 237, 237);
+    font-size: 14px;
+}
+
+.add-btn {
+    margin-top: 10px;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 50px;
+    border: none;
+    padding: 7px 20px;
+    color: white;
+    background-color: #00aeef;
+    opacity: 0.5;
+    transition: all 0.3s ease;;
+}
+
+.add-btn:hover {
+    opacity: 1;
+}
+
+.edit-btn {
+    text-decoration: none;
+    color: black;
+}

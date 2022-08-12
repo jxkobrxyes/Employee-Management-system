@@ -1,0 +1,76 @@
+.body-card {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(35deg, #2d388a, #00aeef);
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+}
+
+.card-container {
+    padding: 25px 30px;
+    max-width: 700px;
+    width: 100%;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.employee-detail .input-box input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 10px;
+}
+
+.employee-detail .input-box label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+form .employee-detail .input-box {
+    margin: 20px 0 12px 0;
+}
+
+form .buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submit-btn {
+    margin-top: 10px;
+    height: 35px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #00aeef;
+    opacity: 0.5;
+    transition: all 0.3s ease;
+}
+
+.submit-btn:hover {
+    opacity: 1;
+}
+
+.cancel-btn {
+    text-decoration: none;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    background-color: red;
+    opacity: 0.5;
+    transition: all 0.3s ease;;
+}
+
+.cancel-btn:hover {
+    opacity: 1;
+}
