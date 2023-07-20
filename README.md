@@ -8,5 +8,6 @@ A complete full-stack web application that tracks employees first name, last nam
 - Spring MVC
 - Spring Data JPA
 - PostgreSQL
+  
 **Frontend**
 - 
