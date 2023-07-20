@@ -14,5 +14,5 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
   
 **Frontend:**
 - Javascript
-- React
+- React Bootstrap
 - HTML/CSS
