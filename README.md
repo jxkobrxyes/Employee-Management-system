@@ -3,12 +3,14 @@ A complete full-stack web application that tracks employees first name, last nam
 
 # Technologies
 
-**Backend**
+**Backend:**
 - Java
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
 - PostgreSQL
   
-**Frontend**
-- 
+**Frontend:**
+- Javascript
+- React
+- HTML/CSS
