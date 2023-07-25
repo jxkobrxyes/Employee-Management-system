@@ -16,6 +16,7 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 - PostgreSQL
   
 **Frontend:**
-- Javascript
-- React Bootstrap
+- React JS
+- React hooks
 - HTML/CSS
+- Bootstrap 5
