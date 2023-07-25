@@ -24,6 +24,8 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 **JF 3.6:** Can implement a RESTful API
 - Developed API to create and manage employee imformation
 <img width="866" alt="Screenshot 2023-07-25 at 10 02 57 AM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/3620fc32-4d04-4b89-8f72-0a0e90ad9f5f">
+
 - Implemented JPA mapping to API endpoints to perform CRUD operations. By accessing the endpoint, the user can perform actions to the data stored in PosgreSQL database
 <img width="447" alt="Screenshot 2023-07-25 at 10 54 48 AM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/1d685363-babc-4150-9346-1917d4600a74">
+
 **JF 3.2** Can explain the principles and uses of relational and non-relational databases 
