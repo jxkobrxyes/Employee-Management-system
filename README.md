@@ -21,4 +21,5 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 - Axios HTTP library
 
 # Competencies
-**JF 3.6**
+**JF 3.6:** Can implement a RESTful API
+- Developed API to create and manage employee imformation
