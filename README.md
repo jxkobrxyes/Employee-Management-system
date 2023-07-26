@@ -28,4 +28,10 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 - Implemented JPA mapping to API endpoints to perform CRUD operations. By accessing the endpoint, the user can perform actions to the data stored in PosgreSQL database
 <img width="447" alt="Screenshot 2023-07-25 at 10 54 48 AM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/1d685363-babc-4150-9346-1917d4600a74">
 
+
 **JF 3.2** Can explain the principles and uses of relational and non-relational databases 
+- For this project I Implemented JPA to map Java objects to a relational database. JPA handles the serialization and deserialization of the objects, which allows Java objects to be stored in databases.
+- Using Spring Data JPA allows me to also create a table within my database which can then perform all the CRUD operations against the database
+<img width="824" alt="Screenshot 2023-07-25 at 5 20 12 PM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/0117335b-8693-4e79-a5d7-63d917b5ce2a">
+
+
