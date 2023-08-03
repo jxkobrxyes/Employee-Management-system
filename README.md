@@ -1,5 +1,7 @@
 # Employee-Management-system
 # Overview
+**Go into main branch to see full ReadMe file**
+
 This is a complete full-stack CRUD application that tracks employees first name, last name, employee email, the department they work in, and their unique ID number using spring boot PutMapping that is provided after employees submit the employee form.
 
 This project utilizes Spring boot for the backend, React (React Hooks) for the frontend, PostgreSQL database, and Axios to make HTTP requests.
