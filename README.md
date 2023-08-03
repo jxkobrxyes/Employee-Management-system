@@ -37,6 +37,7 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 <img width="824" alt="Screenshot 2023-07-25 at 5 20 12 PM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/0117335b-8693-4e79-a5d7-63d917b5ce2a">
 
 
+
 | Job Function | Description |
 | --- | --- |
 | JF 3.2 | Can explain the principles and uses of relational and non-relational databases |
