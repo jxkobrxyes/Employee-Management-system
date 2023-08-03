@@ -37,3 +37,12 @@ This project utilizes Spring boot for the backend, React (React Hooks) for the f
 <img width="824" alt="Screenshot 2023-07-25 at 5 20 12 PM" src="https://github.com/jxkobrxyes/Employee-Management-system/assets/79924650/0117335b-8693-4e79-a5d7-63d917b5ce2a">
 
 
+| Job Function | Description |
+| --- | --- |
+| JF 3.2 | Can explain the principles and uses of relational and non-relational databases |
+| JF 3.6 | Can implement a RESTful API |
+| JF 3.7 | Can implement authentication and authorization to an API |
+| JF 3.8 | Can encrypt sensitive data via hashing  |
+| JF 4.1 | Can explain organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of sensitive data. |
+| JF 4.2 | Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security. |
+| JF 4.4 | Can interpret and implement a given design while remaining compliant with security and maintainability requirements |
